@@ -1,0 +1,19 @@
+{
+  "name": "smagus-io.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smagus-io/smagus-io.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smagus-io/smagus-io.github.io/issues"
+  },
+  "homepage": "https://github.com/smagus-io/smagus-io.github.io#readme"
+}
